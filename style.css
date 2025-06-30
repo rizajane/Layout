@@ -1,0 +1,54 @@
+body{
+background-color: hsl(208, 100%, 97%);
+}
+.head{
+font-family: 'Montserrat';
+font-weight: bold;
+font-size: 30px;
+text-align: left;
+color: black;
+padding-left: 200px;
+}
+.cor{
+font-family: Montserrat;
+font-size: 20px;
+color: #3656c0;
+}
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: justify;
+font-weight: 500;
+color: #808080;
+padding-left: 200px;
+padding-right: 250px;
+}
+ul{
+list-style: none;
+text-align: left;
+font-family: Montserrat;
+font-weight: bold;
+font-size: 15px;
+padding-left: 200px;
+}
+.res{
+color: #ec610a;
+}
+.whi{
+font-weight: lighter;
+color: rgb(188, 186, 183);
+}
+li{
+display: inline;
+}
+img{
+width: 100%;
+max-width: 100px;
+object-fit: cover;
+vertical-align: middle;
+float: right;
+padding-left: 90x;
+padding-right: 250px;
+padding-bottom: 30px;
+
+}
